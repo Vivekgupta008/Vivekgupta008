@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekgupta008" alt="vivekgupta008" /></a> </p>
 
-- 🔭 I’m currently working on **InpactAI**
+- 🔭 I’m currently working on **Aossie**
 
 - 🌱 I’m currently learning **devOps and agentic AI**
 
